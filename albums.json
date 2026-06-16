@@ -1,0 +1,349 @@
+[
+  {
+    "albumCover": "https://i.postimg.cc/xC5NrvKM/high-voltage.jpg",
+    "description": "Debitantski album AC/DC-a s prepoznatljivim hard rock zvukom.",
+    "id": 0,
+    "songs": [
+      "Baby",
+      "Please Don\u0027t Go",
+      "She\u0027s Got Balls",
+      "Little Lover",
+      "Stick Around",
+      "Soul Stripper",
+      "You Ain\u0027t Got a Hold on Me",
+      "Love Song",
+      "Show Business"
+    ],
+    "spotifyUrl": "https://open.spotify.com/search/ACDC%20High%20Voltage",
+    "title": "High Voltage",
+    "year": "1975"
+  },
+  {
+    "albumCover": "https://i.postimg.cc/8Pt4dv9M/tnt.jpg",
+    "description": "Australski album koji je dodatno definirao rani zvuk benda.",
+    "id": 0,
+    "songs": [
+      "It\u0027s a Long Way to the Top",
+      "Rock \u0027n\u0027 Roll Singer",
+      "The Jack",
+      "Live Wire",
+      "T.N.T.",
+      "Rocker",
+      "Can I Sit Next to You Girl",
+      "High Voltage",
+      "School Days"
+    ],
+    "spotifyUrl": "https://open.spotify.com/search/ACDC%20TNT",
+    "title": "T.N.T.",
+    "year": "1975"
+  },
+  {
+    "albumCover": "https://i.postimg.cc/yYvjhRtF/dirty-deeds-done-dirt-cheap.jpg",
+    "description": "Album s buntovnim hard rock stilom i jednim od najpoznatijih refrena benda.",
+    "id": 0,
+    "songs": [
+      "Dirty Deeds Done Dirt Cheap",
+      "Ain\u0027t No Fun",
+      "There\u0027s Gonna Be Some Rockin\u0027",
+      "Problem Child",
+      "Squealer",
+      "Big Balls",
+      "R.I.P.",
+      "Ride On",
+      "Jailbreak"
+    ],
+    "spotifyUrl": "https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI?si\u003dYy4tFfLzS5iuTBwT5ChZXQ",
+    "title": "Dirty Deeds Done Dirt Cheap",
+    "year": "1976"
+  },
+  {
+    "albumCover": "https://i.postimg.cc/dt46RCpC/let-there-be-rock.jpg",
+    "description": "Energičan album s jednim od najžešćih ranih AC/DC zvukova.",
+    "id": 0,
+    "songs": [
+      "Go Down",
+      "Dog Eat Dog",
+      "Let There Be Rock",
+      "Bad Boy Boogie",
+      "Problem Child",
+      "Overdose",
+      "Hell Ain\u0027t a Bad Place to Be",
+      "Whole Lotta Rosie"
+    ],
+    "spotifyUrl": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa?si\u003dBl6jMHLuQ7GSzklWSw1SDw",
+    "title": "Let There Be Rock",
+    "year": "1977"
+  },
+  {
+    "albumCover": "https://i.postimg.cc/PxyvGWmw/powerage.jpg",
+    "description": "Album s čvrstim riffovima i sirovim rock karakterom.",
+    "id": 0,
+    "songs": [
+      "Rock \u0027n\u0027 Roll Damnation",
+      "Down Payment Blues",
+      "Gimme a Bullet",
+      "Riff Raff",
+      "Sin City",
+      "What\u0027s Next to the Moon",
+      "Gone Shootin\u0027",
+      "Up to My Neck in You",
+      "Kicked in the Teeth"
+    ],
+    "spotifyUrl": "https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm?si\u003d6v55EgB8QcCGnFFey5vXkQ",
+    "title": "Powerage",
+    "year": "1978"
+  },
+  {
+    "albumCover": "https://i.postimg.cc/NfpD8XSb/highway-to-hell.jpg",
+    "description": "Jedan od najpoznatijih albuma benda i posljednji s Bonom Scottom.",
+    "id": 0,
+    "songs": [
+      "Highway to Hell",
+      "Girls Got Rhythm",
+      "Walk All Over You",
+      "Touch Too Much",
+      "Beating Around the Bush",
+      "Shot Down in Flames",
+      "Get It Hot",
+      "If You Want Blood",
+      "Love Hungry Man",
+      "Night Prowler"
+    ],
+    "spotifyUrl": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS?si\u003dLMBsFH8lSMazqmWkix3KGA",
+    "title": "Highway to Hell",
+    "year": "1979"
+  },
+  {
+    "albumCover": "https://i.postimg.cc/hPps8m6s/back-in-black.jpg",
+    "description": "Legendarni album i prvi s Brianom Johnsonom kao glavnim vokalom.",
+    "id": 0,
+    "songs": [
+      "Hells Bells",
+      "Shoot to Thrill",
+      "What Do You Do for Money Honey",
+      "Given the Dog a Bone",
+      "Let Me Put My Love Into You",
+      "Back in Black",
+      "You Shook Me All Night Long",
+      "Have a Drink on Me",
+      "Shake a Leg",
+      "Rock and Roll Ain\u0027t Noise Pollution"
+    ],
+    "spotifyUrl": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh?si\u003dlPybRsDzQuaK30qRicYnbg",
+    "title": "Back in Black",
+    "year": "1980"
+  },
+  {
+    "albumCover": "https://i.postimg.cc/c4Xh732f/for-those-about-to-rock.jpg",
+    "description": "Stadionski rock album poznat po naslovnoj pjesmi.",
+    "id": 0,
+    "songs": [
+      "For Those About to Rock",
+      "Put the Finger on You",
+      "Let\u0027s Get It Up",
+      "Inject the Venom",
+      "Snowballed",
+      "Evil Walks",
+      "C.O.D.",
+      "Breaking the Rules",
+      "Night of the Long Knives",
+      "Spellbound"
+    ],
+    "spotifyUrl": "https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR?si\u003djMehwkHJTS2cqRTZTEh_gQ",
+    "title": "For Those About to Rock We Salute You",
+    "year": "1981"
+  },
+  {
+    "albumCover": "https://i.postimg.cc/CLm7C8Xf/flick-of-the-switch.jpg",
+    "description": "Siroviji album s jednostavnijim produkcijskim pristupom.",
+    "id": 0,
+    "songs": [
+      "Rising Power",
+      "This House Is on Fire",
+      "Flick of the Switch",
+      "Nervous Shakedown",
+      "Landslide",
+      "Guns for Hire",
+      "Deep in the Hole",
+      "Bedlam in Belgium",
+      "Badlands",
+      "Brain Shake"
+    ],
+    "spotifyUrl": "https://open.spotify.com/album/0ZD2tIjWo9fwzPndZ04wDY?si\u003dC-pE4sVITDaukZ9XjctCXA",
+    "title": "Flick of the Switch",
+    "year": "1983"
+  },
+  {
+    "albumCover": "https://i.postimg.cc/hPps8m6d/fly-on-the-wall.jpg",
+    "description": "Album iz sredine osamdesetih s agresivnim hard rock zvukom.",
+    "id": 0,
+    "songs": [
+      "Fly on the Wall",
+      "Shake Your Foundations",
+      "First Blood",
+      "Danger",
+      "Sink the Pink",
+      "Playing with Girls",
+      "Stand Up",
+      "Hell or High Water",
+      "Back in Business",
+      "Send for the Man"
+    ],
+    "spotifyUrl": "https://open.spotify.com/album/0rOXa1wPbBrCNl6knMyDBW?si\u003dwTiu07nvQJ-0qrNNImaIGQ",
+    "title": "Fly on the Wall",
+    "year": "1985"
+  },
+  {
+    "albumCover": "https://i.postimg.cc/282GdWMb/blow-up-your-video.jpg",
+    "description": "Album koji vraća bend komercijalno jačem zvuku.",
+    "id": 0,
+    "songs": [
+      "Heatseeker",
+      "That\u0027s the Way I Wanna Rock \u0027n\u0027 Roll",
+      "Meanstreak",
+      "Go Zone",
+      "Kissin\u0027 Dynamite",
+      "Nick of Time",
+      "Some Sin for Nuthin\u0027",
+      "Ruff Stuff",
+      "Two\u0027s Up",
+      "This Means War"
+    ],
+    "spotifyUrl": "https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI?si\u003dDB8vEyaATJaL74zufwnziQ",
+    "title": "Blow Up Your Video",
+    "year": "1988"
+  },
+  {
+    "albumCover": "https://i.postimg.cc/vH3h7nkr/the-razors-edge.jpg",
+    "description": "Album poznat po pjesmi Thunderstruck.",
+    "id": 0,
+    "songs": [
+      "Thunderstruck",
+      "Fire Your Guns",
+      "Moneytalks",
+      "The Razors Edge",
+      "Mistress for Christmas",
+      "Rock Your Heart Out",
+      "Are You Ready",
+      "Got You by the Balls",
+      "Shot of Love",
+      "Let\u0027s Make It",
+      "Goodbye and Good Riddance to Bad Luck",
+      "If You Dare"
+    ],
+    "spotifyUrl": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy?si\u003d8yXvm2oYQO62rPHfqhW6Zg",
+    "title": "The Razors Edge",
+    "year": "1990"
+  },
+  {
+    "albumCover": "https://i.postimg.cc/gkNsyhQr/ballbraker.jpg",
+    "description": "Album s povratkom jednostavnom i teškom rock zvuku.",
+    "id": 0,
+    "songs": [
+      "Hard as a Rock",
+      "Cover You in Oil",
+      "The Furor",
+      "Boogie Man",
+      "The Honey Roll",
+      "Burnin\u0027 Alive",
+      "Hail Caesar",
+      "Love Bomb",
+      "Caught with Your Pants Down",
+      "Whiskey on the Rocks",
+      "Ballbreaker"
+    ],
+    "spotifyUrl": "https://open.spotify.com/album/1zXYNAA57WJ33GgZJHchhX?si\u003dXOp4Rui2TFSTe48v6cqAAw",
+    "title": "Ballbreaker",
+    "year": "1995"
+  },
+  {
+    "albumCover": "https://i.postimg.cc/sDwmPWqX/stiff-upper-lip.jpg",
+    "description": "Blues-rock orijentiran album s klasičnim AC/DC stilom.",
+    "id": 0,
+    "songs": [
+      "Stiff Upper Lip",
+      "Meltdown",
+      "House of Jazz",
+      "Hold Me Back",
+      "Safe in New York City",
+      "Can\u0027t Stand Still",
+      "Can\u0027t Stop Rock \u0027n\u0027 Roll",
+      "Satellite Blues",
+      "Damned",
+      "Come and Get It",
+      "All Screwed Up",
+      "Give It Up"
+    ],
+    "spotifyUrl": "https://open.spotify.com/album/5JPVHEB67TREre4Q8JOfCQ?si\u003dd6NRvdRgQXGAllGqnJ_4qg",
+    "title": "Stiff Upper Lip",
+    "year": "2000"
+  },
+  {
+    "albumCover": "https://i.postimg.cc/RVXd1tyN/black-ice.jpg",
+    "description": "Veliki povratnički album nakon duže studijske pauze.",
+    "id": 0,
+    "songs": [
+      "Rock \u0027n\u0027 Roll Train",
+      "Skies on Fire",
+      "Big Jack",
+      "Anything Goes",
+      "War Machine",
+      "Smash \u0027n\u0027 Grab",
+      "Spoilin\u0027 for a Fight",
+      "Wheels",
+      "Decibel",
+      "Stormy May Day",
+      "She Likes Rock \u0027n\u0027 Roll",
+      "Money Made",
+      "Rock \u0027n\u0027 Roll Dream",
+      "Rocking All the Way",
+      "Black Ice"
+    ],
+    "spotifyUrl": "https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN?si\u003djZjkFw0DSIqNE3n7mWUx_A",
+    "title": "Black Ice",
+    "year": "2008"
+  },
+  {
+    "albumCover": "https://i.postimg.cc/Qx0mg7wM/rock-or-bust.jpg",
+    "description": "Album kraćeg formata s modernim, ali prepoznatljivim AC/DC zvukom.",
+    "id": 0,
+    "songs": [
+      "Rock or Bust",
+      "Play Ball",
+      "Rock the Blues Away",
+      "Miss Adventure",
+      "Dogs of War",
+      "Got Some Rock \u0026 Roll Thunder",
+      "Hard Times",
+      "Baptism by Fire",
+      "Rock the House",
+      "Sweet Candy",
+      "Emission Control"
+    ],
+    "spotifyUrl": "https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg?si\u003d1JDoqRERQROryyXzDDO_Iw",
+    "title": "Rock or Bust",
+    "year": "2014"
+  },
+  {
+    "albumCover": "https://i.postimg.cc/TYRQW07b/power-up.jpg",
+    "description": "Album posvećen Malcolmu Youngu, s klasičnim AC/DC riffovima.",
+    "id": 0,
+    "songs": [
+      "Realize",
+      "Rejection",
+      "Shot in the Dark",
+      "Through the Mists of Time",
+      "Kick You When You\u0027re Down",
+      "Witch\u0027s Spell",
+      "Demon Fire",
+      "Wild Reputation",
+      "No Man\u0027s Land",
+      "Systems Down",
+      "Money Shot",
+      "Code Red"
+    ],
+    "spotifyUrl": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0?si\u003d_foX3oaKQlWVcPJh028njA",
+    "title": "Power Up",
+    "year": "2020"
+  }
+]
